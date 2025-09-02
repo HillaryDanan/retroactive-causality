@@ -1,0 +1,24 @@
+# Classic Garden Path Sentences from Literature
+# Format: base_sentence | continuation_word
+# Sources: Ferreira & Henderson (1991), Christianson et al. (2001)
+
+The horse raced past the barn | fell
+The old man the | boat  
+The complex houses married and single | soldiers
+While Mary was mending the sock | fell
+The cotton clothing is made of | grows
+The prime number few | mathematicians
+Since Jay always jogs a mile | seems
+The raft floated down the river | sank
+The daughter of the king's son | admires
+The cat chased through the garden | died
+When Fred eats food | gets
+The man who hunts | ducks
+Fat people eat | accumulates
+The chicken is ready to | eat
+The florist sent the flowers | was
+I convinced her children | are
+The player tossed a frisbee | smiled
+Time flies like an | arrow
+While Anna dressed the baby | spit
+The boat floated down the river | sank
