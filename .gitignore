@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/cache/
+results/raw_measurements/
+*.npy
+.ipynb_checkpoints/
+
