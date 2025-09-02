@@ -1,0 +1,11 @@
+Model,Bits,Std,Pretraining
+"RoBERTa
+(BPE)",0.638,0.062,BPE
+"ALBERT
+(Sentence)",0.957,0.128,SentencePiece
+"DistilBERT
+(Distilled)",1.231,0.103,MLM-Distilled
+"ELECTRA
+(RTD)",1.451,0.15,RTD
+"BERT
+(MLM)",1.626,0.201,MLM
