@@ -147,4 +147,20 @@ Core papers:
 
 ---
 
-**Note**: This repository documents an empirical finding requiring theoretical development. The mechanism underlying retroactive information flow remains an open question.
+**Note**: This repository documents an empirical finding requiring theoretical development. The mechanism underlying retroactive information flow remains an open question.## Research Summary
+
+Exploratory investigation into information flow in transformers during garden path processing.
+
+### Key Finding
+- **Causal mechanism discovered**: Masking disambiguation words eliminates retroactive updates (100% reduction), proving causality per Pearl (2009)
+
+### Additional Tests
+- Semantic validity: r=0.269, p=0.827 (not significant)  
+- Ambiguity types: ANOVA p=0.2429 (differences not significant)
+
+### Note on Datasets
+- Original: N=30 (target words only)
+- Expanded: N=655 (all tokens)
+- Different granularity explains magnitude differences
+
+This is exploratory research shared for collaboration and discussion.
