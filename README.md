@@ -168,3 +168,10 @@ This is exploratory research shared for collaboration and discussion.
 ## Important Correction (Sept 3, 2025)
 Initial causality findings were based on flawed methodology. See UPDATE_FINDINGS.md for details.
 Currently re-analyzing with corrected methods. Science is self-correcting!
+
+## Additional Exploration: Temporal Representations (Sept 2025)
+Exploratory tests suggest language models may not encode temporal relationships:
+- When predicting masked tokens in temporal paradoxes ("Yesterday [MASK] tomorrow")
+- Models predict generic connectors ("and", ",") not temporal operators
+- See TEMPORAL_EXPLORATION_FINDINGS.md for details
+- This is preliminary - requires systematic investigation
